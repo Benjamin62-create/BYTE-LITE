@@ -44,7 +44,7 @@
     },
     "HEROKU_API_KEY": {
       "description": "insert your heroku api-key",
-      "value": "",
+      "value": "xyz",
       "required": false
     },
     "HEROKU_APP_NAME": {
@@ -54,7 +54,7 @@
     },
     "SESSION_ID": {
       "description": "put your session ID, the code you received after pairing code make sure starts with Byt;;;",
-      "value": "",
+      "value": "Byt_1950dc0ad6e70f4dc7bc0ec4507289dab6",
       "required": true
     },
     "OWNER_NAME": {
